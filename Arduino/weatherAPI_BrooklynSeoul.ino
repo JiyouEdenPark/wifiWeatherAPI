@@ -16,7 +16,7 @@ int port = 443;
 #define LED_COUNT 5
 int brooklynPins[LED_COUNT] = {3, 4, 5, 6, 7}; // Brooklyn LEDs
 int seoulPins[LED_COUNT] = {8, 9, 10, 11, 12}; // Seoul LEDs
-﻿ㄴ
+
 // --- 일출/일몰 시간 저장 --- // Sunrise/Sunset time storage
 unsigned long sunriseBrooklyn = 0;
 unsigned long sunsetBrooklyn = 0;
